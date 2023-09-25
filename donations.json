@@ -12,7 +12,7 @@
    },
    {
       "id": 2,
-      "title": "Mental Health Awareness and Support",
+      "title": "Clean water for children",
       "image": "https://i.ibb.co/0Y0JD7Z/health-2.jpg",
       "category": "Health",
       "category_bg": "#0052ff26",
@@ -23,7 +23,7 @@
    },
    {
       "id": 3,
-      "title": "Cancer Research Foundation",
+      "title": "Clean water for children",
       "image": "https://i.ibb.co/8mMcPD7/health-3.jpg",
       "category": "Health",
       "category_bg": "#0052ff26",
@@ -34,7 +34,7 @@
    },
    {
       "id": 4,
-      "title": "STEM Education Initiatives:",
+      "title": "Good education",
       "image": "https://i.ibb.co/ynQsRkn/edu-1.jpg",
       "category": "Education",
       "category_bg": "#ff444a26",
@@ -56,7 +56,7 @@
    },
    {
       "id": 6,
-      "title": "Teacher Training and Development",
+      "title": "Good education",
       "image": "https://i.ibb.co/c86yR8j/edu-3.jpg",
       "category": "Education",
       "category_bg": "#ff444a26",
@@ -67,7 +67,7 @@
    },
    {
       "id": 7,
-      "title": "Clothing Drives for the Homeless",
+      "title": "Used Clothing Drive",
       "image": "https://i.ibb.co/rk8zkqf/cloth-1.jpg",
       "category": "Clothing",
       "category_bg": "#79c03f38",
@@ -78,7 +78,7 @@
    },
    {
       "id": 8,
-      "title": "Children's Clothing Donations",
+      "title": "Used Clothing Drive",
       "image": "https://i.ibb.co/NVMBYxx/cloth-2.jpg",
       "category": "Clothing",
       "category_bg": "#79c03f38",
@@ -89,7 +89,7 @@
    },
    {
       "id": 9,
-      "title": "Job Training and Interview Attire Programs",
+      "title": "Used Clothing Drive",
       "image": "https://i.ibb.co/WtnS154/cloth-3.jpg",
       "category": "Clothing",
       "category_bg": "#79c03f38",
@@ -100,7 +100,7 @@
    },
    {
       "id": 10,
-      "title": "Food Banks and Hunger Relief Programs",
+      "title": "Better Food for Everyone",
       "image": "https://i.ibb.co/Wpw1wkw/food-1.jpg",
       "category": "Food",
       "category_bg": "#f8714726",
@@ -111,7 +111,7 @@
    },
    {
       "id": 11,
-      "title": "School Meal Programs",
+      "title": "Better Food for Everyone",
       "image": "https://i.ibb.co/cFKV38m/food-2.jpg",
       "category": "Food",
       "category_bg": "#f8714726",
