@@ -1,0 +1,371 @@
+[
+   {
+      "id": 1,
+      "title": "Tech Summit 2023",
+      "image": "https://i.ibb.co/fQF2b1f/1.png",
+      "event_date": "2023-11-15",
+      "price": 199.99,
+      "address": "123 Main Street, Cityville, USA",
+      "speakers": [
+         {
+            "name": "John Doe",
+            "image": "https://i.ibb.co/SXZ3tgp/speaker-3.png",
+            "title": "CEO, Tech Innovators",
+            "social_media_links": [
+               "https://twitter.com/johndoe",
+               "https://linkedin.com/in/johndoe",
+               "https://github.com/johndoe"
+            ]
+         },
+         {
+            "name": "Jane Smith",
+            "image": "https://i.ibb.co/5vW85X8/speaker-2.png",
+            "title": "CTO, InnovateTech",
+            "social_media_links": [
+               "https://twitter.com/janesmith",
+               "https://linkedin.com/in/janesmith",
+               "https://github.com/janesmith"
+            ]
+         }
+      ],
+      "ratings": 4.7,
+      "short_description": "Join us for the latest in tech innovation!",
+      "long_description": "Tech Summit 2023 is a premier event for tech enthusiasts. Explore the latest trends and network with industry leaders.",
+      "facilities": [
+         "Free Wi-Fi",
+         "Catering",
+         "Parking",
+         "Workshops",
+         "Networking Lounge",
+         "Exhibition Area"
+      ]
+   },
+   {
+      "id": 2,
+      "title": "Marketing Masterclass",
+      "image": "https://i.ibb.co/HnL7TJ6/2.png",
+      "event_date": "2023-12-05",
+      "price": 149.99,
+      "address": "456 Oak Avenue, Townsville, USA",
+      "speakers": [
+         {
+            "name": "Emily Johnson",
+            "image": "https://i.ibb.co/1T2FqcS/speaker-4.png",
+            "title": "Marketing Guru",
+            "social_media_links": [
+               "https://twitter.com/emilyjohnson",
+               "https://linkedin.com/in/emilyjohnson",
+               "https://instagram.com/emilyjohnson"
+            ]
+         },
+         {
+            "name": "Mark Davis",
+            "image": "https://i.ibb.co/vLmzbdX/speaker-1.png",
+            "title": "VP of Marketing, MarketMasters",
+            "social_media_links": [
+               "https://twitter.com/markdavis",
+               "https://linkedin.com/in/markdavis",
+               "https://instagram.com/markdavis"
+            ]
+         }
+      ],
+      "ratings": 4.9,
+      "short_description": "Learn the secrets of successful marketing!",
+      "long_description": "Join us for a marketing masterclass where industry experts will share their insights and strategies.",
+      "facilities": [
+         "Coffee Breaks",
+         "Live Q&A",
+         "Handouts",
+         "Networking Sessions",
+         "Access to Presentations",
+         "Certificates"
+      ]
+   },
+   {
+      "id": 3,
+      "title": "Finance Forum 2023",
+      "image": "https://i.ibb.co/4VwhZcG/3.png",
+      "event_date": "2023-10-20",
+      "price": 299.99,
+      "address": "789 Elm Street, Financetown, USA",
+      "speakers": [
+         {
+            "name": "Michael Brown",
+            "image": "https://i.ibb.co/mcBZppt/speaker-5.png",
+            "title": "Financial Analyst",
+            "social_media_links": [
+               "https://twitter.com/michaelbrown",
+               "https://linkedin.com/in/michaelbrown",
+               "https://facebook.com/michaelbrown"
+            ]
+         },
+         {
+            "name": "Sarah Lee",
+            "image": "https://i.ibb.co/5GDV5vq/speaker-9.png",
+            "title": "CFO, Capital Ventures",
+            "social_media_links": [
+               "https://twitter.com/sarahlee",
+               "https://linkedin.com/in/sarahlee",
+               "https://facebook.com/sarahlee"
+            ]
+         }
+      ],
+      "ratings": 4.6,
+      "short_description": "Explore the world of finance and investment!",
+      "long_description": "Finance Forum 2023 brings together finance professionals to discuss market trends, investment strategies, and more.",
+      "facilities": [
+         "Breakfast Buffet",
+         "Panel Discussions",
+         "Networking Lunch",
+         "Financial Tools Demo",
+         "Investment Workshops",
+         "Live Trading"
+      ]
+   },
+   {
+      "id": 4,
+      "title": "Leadership Excellence Summit",
+      "image": "https://i.ibb.co/NLkkzhL/4.png",
+      "event_date": "2023-09-28",
+      "price": 249.99,
+      "address": "101 Pine Lane, Leaderstown, USA",
+      "speakers": [
+         {
+            "name": "David Johnson",
+            "image": "https://i.ibb.co/Y3YmZ1q/speaker-6.png",
+            "title": "Leadership Coach",
+            "social_media_links": [
+               "https://twitter.com/davidjohnson",
+               "https://linkedin.com/in/davidjohnson",
+               "https://youtube.com/davidjohnson"
+            ]
+         },
+         {
+            "name": "Lisa Adams",
+            "image": "https://i.ibb.co/x5WP4n1/speaker-8.png",
+            "title": "CEO, LeaderMinds",
+            "social_media_links": [
+               "https://twitter.com/lisaadams",
+               "https://linkedin.com/in/lisaadams",
+               "https://youtube.com/lisaadams"
+            ]
+         }
+      ],
+      "ratings": 4.8,
+      "short_description": "Unlock your leadership potential!",
+      "long_description": "Join us for a leadership summit where you'll gain insights into effective leadership practices and strategies.",
+      "facilities": [
+         "Leadership Workshops",
+         "Networking Dinners",
+         "Keynote Speakers",
+         "Interactive Sessions",
+         "Leadership Toolkit",
+         "Certificate of Excellence"
+      ]
+   },
+   {
+      "id": 5,
+      "title": "Entrepreneurship Expo",
+      "image": "https://i.ibb.co/VHQq7HY/5.png",
+      "event_date": "2023-11-08",
+      "price": 99.99,
+      "address": "555 Maple Drive, Startup City, USA",
+      "speakers": [
+         {
+            "name": "Alex Turner",
+            "image": "https://i.ibb.co/fNhvkB2/speaker-7.png",
+            "title": "Serial Entrepreneur",
+            "social_media_links": [
+               "https://twitter.com/alexturner",
+               "https://linkedin.com/in/alexturner",
+               "https://instagram.com/alexturner"
+            ]
+         },
+         {
+            "name": "Emma White",
+            "image": "https://i.ibb.co/fNhvkB2/speaker-7.png",
+            "title": "Founder, StartupHub",
+            "social_media_links": [
+               "https://twitter.com/emmawhite",
+               "https://linkedin.com/in/emmawhite",
+               "https://instagram.com/emmawhite"
+            ]
+         }
+      ],
+      "ratings": 4.5,
+      "short_description": "Discover the world of entrepreneurship!",
+      "long_description": "Entrepreneurship Expo is the perfect platform to connect with fellow entrepreneurs, investors, and mentors.",
+      "facilities": [
+         "Pitch Competitions",
+         "Startup Showcase",
+         "Mentorship Sessions",
+         "Networking Breakfast",
+         "Investor Meetings",
+         "Startup Resources"
+      ]
+   },
+   {
+      "id": 6,
+      "title": "HR Symposium 2023",
+      "image": "https://i.ibb.co/fQF2b1f/1.png",
+      "event_date": "2023-10-15",
+      "price": 179.99,
+      "address": "222 Oakwood Avenue, HRville, USA",
+      "speakers": [
+         {
+            "name": "Jennifer Green",
+            "image": "https://i.ibb.co/x5WP4n1/speaker-8.png",
+            "title": "HR Consultant",
+            "social_media_links": [
+               "https://twitter.com/jennifergreen",
+               "https://linkedin.com/in/jennifergreen",
+               "https://facebook.com/jennifergreen"
+            ]
+         },
+         {
+            "name": "Robert Clark",
+            "image": "https://i.ibb.co/Y3YmZ1q/speaker-6.png",
+            "title": "VP of HR, TalentMakers",
+            "social_media_links": [
+               "https://twitter.com/robertclark",
+               "https://linkedin.com/in/robertclark",
+               "https://facebook.com/robertclark"
+            ]
+         }
+      ],
+      "ratings": 4.7,
+      "short_description": "Explore the latest HR trends and best practices!",
+      "long_description": "HR Symposium 2023 brings together HR professionals to discuss recruitment, employee engagement, and more.",
+      "facilities": [
+         "HR Workshops",
+         "Networking Luncheon",
+         "Panel Discussions",
+         "Recruitment Fair",
+         "HR Tech Showcase",
+         "Certificate of Participation"
+      ]
+   },
+   {
+      "id": 7,
+      "title": "E-commerce Expo",
+      "image": "https://i.ibb.co/HnL7TJ6/2.png",
+      "event_date": "2023-11-25",
+      "price": 129.99,
+      "address": "777 Market Street, Ecomtown, USA",
+      "speakers": [
+         {
+            "name": "Sophia Brown",
+            "image": "https://i.ibb.co/5GDV5vq/speaker-9.png",
+            "title": "E-commerce Expert",
+            "social_media_links": [
+               "https://twitter.com/sophiabrown",
+               "https://linkedin.com/in/sophiabrown",
+               "https://instagram.com/sophiabrown"
+            ]
+         },
+         {
+            "name": "James Miller",
+            "image": "https://i.ibb.co/mcBZppt/speaker-5.png",
+            "title": "CEO, EcomTech",
+            "social_media_links": [
+               "https://twitter.com/jamesmiller",
+               "https://linkedin.com/in/jamesmiller",
+               "https://instagram.com/jamesmiller"
+            ]
+         }
+      ],
+      "ratings": 4.8,
+      "short_description": "Explore the world of e-commerce and online business!",
+      "long_description": "E-commerce Expo is a must-attend event for e-commerce entrepreneurs, marketers, and enthusiasts.",
+      "facilities": [
+         "E-commerce Workshops",
+         "Product Showcase",
+         "Networking Brunch",
+         "Digital Marketing Seminars",
+         "E-commerce Tools Demo",
+         "Startup Incubator"
+      ]
+   },
+   {
+      "id": 8,
+      "title": "Green Business Conference",
+      "image": "https://i.ibb.co/4VwhZcG/3.png",
+      "event_date": "2023-12-10",
+      "price": 179.99,
+      "address": "333 Eco Lane, Sustainable City, USA",
+      "speakers": [
+         {
+            "name": "Karen Turner",
+            "image": "https://i.ibb.co/vLmzbdX/speaker-1.png",
+            "title": "Environmental Advocate",
+            "social_media_links": [
+               "https://twitter.com/karenturner",
+               "https://linkedin.com/in/karenturner",
+               "https://facebook.com/karenturner"
+            ]
+         },
+         {
+            "name": "Ryan Adams",
+            "image": "https://i.ibb.co/1T2FqcS/speaker-4.png",
+            "title": "CEO, EcoSolutions",
+            "social_media_links": [
+               "https://twitter.com/ryanadams",
+               "https://linkedin.com/in/ryanadams",
+               "https://facebook.com/ryanadams"
+            ]
+         }
+      ],
+      "ratings": 4.6,
+      "short_description": "Explore sustainable and eco-friendly business practices!",
+      "long_description": "Green Business Conference is dedicated to promoting environmentally responsible business strategies and innovation.",
+      "facilities": [
+         "Green Workshops",
+         "Sustainable Products Showcase",
+         "Networking Reception",
+         "Environmental Impact Assessment",
+         "Green Technology Demos",
+         "Sustainability Awards"
+      ]
+   },
+   {
+      "id": 9,
+      "title": "Supply Chain Summit",
+      "image": "https://i.ibb.co/NLkkzhL/4.png",
+      "event_date": "2023-09-15",
+      "price": 199.99,
+      "address": "444 Logistics Road, Supplytown, USA",
+      "speakers": [
+         {
+            "name": "Thomas Wilson",
+            "image": "https://i.ibb.co/5vW85X8/speaker-2.png",
+            "title": "Supply Chain Expert",
+            "social_media_links": [
+               "https://twitter.com/thomaswilson",
+               "https://linkedin.com/in/thomaswilson",
+               "https://facebook.com/thomaswilson"
+            ]
+         },
+         {
+            "name": "Laura Davis",
+            "image": "https://i.ibb.co/SXZ3tgp/speaker-3.png",
+            "title": "COO, SupplyLink",
+            "social_media_links": [
+               "https://twitter.com/lauradavis",
+               "https://linkedin.com/in/lauradavis",
+               "https://facebook.com/lauradavis"
+            ]
+         }
+      ],
+      "ratings": 4.9,
+      "short_description": "Explore the latest trends in supply chain management!",
+      "long_description": "Supply Chain Summit is a gathering of supply chain professionals to discuss logistics, technology, and best practices.",
+      "facilities": [
+         "Supply Chain Workshops",
+         "Networking Breakfast",
+         "Logistics Solutions Showcase",
+         "Vendor Meetings",
+         "Supply Chain Software Demo",
+         "Certificate of Attendance"
+      ]
+   }
+]
